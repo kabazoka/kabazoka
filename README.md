@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 ![Kabazoka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabazoka&show_icons=true&theme=radical)
 
 ## How to reach me
-- **Email:** kabazoka@example.com
+- **Email:** kabazoka@gmail.com
 - **LinkedIn:** [linkedin.com/in/kabazoka](https://www.linkedin.com/in/kabazoka)
 - **Twitter:** [twitter.com/kabazoka](https://twitter.com/kabazoka)
 
