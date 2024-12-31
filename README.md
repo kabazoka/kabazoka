@@ -1,4 +1,4 @@
-# Hi there, I'm Kabazoka!
+# Hi there, I'm Hao
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning. Here's a bit about me:
 
