@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 ## How to reach me
 - **Email:** kabazoka@gmail.com
 - **LinkedIn:** [linkedin.com/in/kabazoka](https://www.linkedin.com/in/hao-chen-4557b7179/)
-- **Twitter:** [instagram.com/kabazoka](https://instagram.com/kabazoka)
+- **Instagram:** [instagram.com/kabazoka](https://instagram.com/kabazoka)
 
 ## Currently Learning
 - Advanced Machine Learning algorithms
