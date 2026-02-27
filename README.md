@@ -38,35 +38,35 @@ Before diving into embedded systems, I built a background in **IC CAD / EDA** �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kabazoka&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=kabazoka&theme=default&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kabazoka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabazoka&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabazoka&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kabazoka&layout=compact&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabazoka&layout=compact&hide_border=true" alt="Top Languages" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabazoka&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabazoka&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabazoka&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabazoka&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </p>
 
 ---
 
 ### 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/kabazoka/ViT-Accelerator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabazoka&repo=ViT-Accelerator&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/kabazoka/Wirelength-Driven-Detailed-Macro-Placement-with-Force-Directed-Method">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabazoka&repo=Wirelength-Driven-Detailed-Macro-Placement-with-Force-Directed-Method&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**ViT-Accelerator**](https://github.com/kabazoka/ViT-Accelerator) | Vision Transformer Accelerator in Vivado HLS for Xilinx FPGAs | ![Stars](https://img.shields.io/github/stars/kabazoka/ViT-Accelerator?style=flat-square&color=58A6FF) |
+| [**Wirelength-Driven Macro Placement**](https://github.com/kabazoka/Wirelength-Driven-Detailed-Macro-Placement-with-Force-Directed-Method) | 2022 ICCAD Problem D — Force-directed placement solution | ![Stars](https://img.shields.io/github/stars/kabazoka/Wirelength-Driven-Detailed-Macro-Placement-with-Force-Directed-Method?style=flat-square&color=58A6FF) |
+| [**Chromatic-Adaption-Accelerator**](https://github.com/kabazoka/Chromatic-Adaption-Accelerator) | FPGA acceleration for Bradford Transform on color images | ![Stars](https://img.shields.io/github/stars/kabazoka/Chromatic-Adaption-Accelerator?style=flat-square&color=58A6FF) |
+| [**RGBFL-Py**](https://github.com/kabazoka/RGBFL-Py) | Image processing for CFA-based ePaper with RGB front light | ![Stars](https://img.shields.io/github/stars/kabazoka/RGBFL-Py?style=flat-square&color=58A6FF) |
 
 ---
 
