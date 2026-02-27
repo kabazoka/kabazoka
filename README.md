@@ -1,35 +1,96 @@
-# Hi there, I'm Hao
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning. Here's a bit about me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+there%2C+I'm+Hao+%F0%9F%91%8B;BSP+Engineer+%7C+Embedded+Linux+%7C+EDA+%2F+IC+CAD)](https://git.io/typing-svg)
 
-## About Me
-- **Name:** Hao Chen
-- **Profession:** Software Developer
-- **Interests:** Digital Circuit Design, FPGA for AI acceleration, CAD EDA tools, AI fields such as NLP (Natural Language Processing) LLM (Large Language Models), and Image Processing Models
-
-## Technologies & Tools
-- **Languages:** Python, C++, Verilog
-- **Frameworks:** TensorFlow, PyTorch, Keras, OpenCV
-- **EDA Tools:** Xilinx Vivado, Vitis HLS, Synopsys Design Compiler, VCS
-- **AI Tools:** Hugging Face Transformers, NLTK
-- **Cloud Services:** AWS
-
-## GitHub Stats
-![Kabazoka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabazoka&show_icons=true&theme=radical)
-
-## How to reach me
-- **Email:** kabazoka@gmail.com
-- **LinkedIn:** [linkedin.com/in/kabazoka](https://www.linkedin.com/in/hao-chen-4557b7179/)
-- **Instagram:** [instagram.com/kabazoka](https://instagram.com/kabazoka)
-
-## Currently Learning
-- Advanced Machine Learning algorithms
-- FPGA-based AI acceleration techniques
-- Contributing to open-source projects
-
-## Let's Connect!
-Feel free to reach out to me if you want to collaborate on projects, discuss technology, or just say hi!
+</div>
 
 ---
 
-From [kabazoka](https://github.com/kabazoka)
+### 🧑‍💻 About Me
+
+**Hao Chen** — BSP Engineer at **AAEON Technology Inc.**, Taipei 🇹🇼
+
+I work on Board Support Packages for ARM-based industrial computers, bridging the gap between silicon and software. My day-to-day involves Linux kernel driver development, device tree hacking, Yocto builds, and hardware validation for NXP i.MX and MediaTek Genio platforms.
+
+Before diving into embedded systems, I built a background in **IC CAD / EDA** — winning awards for physical design algorithms — and explored **FPGA-based AI acceleration**. I enjoy solving problems that sit at the intersection of hardware and software.
+
+---
+
+### 🔧 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,docker,vscode,vim,cmake,github,githubactions,obsidian&perline=13" />
+  </a>
+</p>
+
+**Embedded & Hardware**
+`NXP i.MX8` · `MediaTek Genio` · `Yocto / BitBake` · `U-Boot` · `Device Tree` · `UART / SPI / I2C` · `RS232 / RS422 / RS485`
+
+**EDA & FPGA**
+`Synopsys Design Compiler` · `Synopsys VCS` · `Xilinx Vivado` · `Vitis HLS` · `Verilog` · `VHDL`
+
+**AI / ML** *(past projects)*
+`PyTorch` · `TensorFlow` · `OpenCV` · `Hugging Face`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kabazoka&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=kabazoka&theme=default&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kabazoka&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kabazoka&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabazoka&layout=compact&hide_border=true" alt="Top Languages" />
+  </picture>
+</p>
+
+---
+
+### 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kabazoka/ViT-Accelerator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabazoka&repo=ViT-Accelerator&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/kabazoka/Wirelength-Driven-Detailed-Macro-Placement-with-Force-Directed-Method">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kabazoka&repo=Wirelength-Driven-Detailed-Macro-Placement-with-Force-Directed-Method&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🌱 Currently Working On
+
+- 🐧 Linux kernel driver development & BSP customization for industrial ARM platforms
+- 📡 Hardware validation — 4G modules, serial communication, display interfaces
+- 🛠️ Building better dev workflows with Obsidian, Claude Code, and automation scripts
+- 🔌 Debugging everything from UFW kernel modules to U-Boot boot chains
+
+---
+
+### 📬 Connect
+
+<p align="center">
+  <a href="mailto:kabazoka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hao-chen-4557b7179/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/kabazoka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://kabazoka.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0001-2093-1545"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kabazoka&style=flat-square&color=58A6FF" alt="Profile Views" />
+</div>
